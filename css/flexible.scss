@@ -1,0 +1,21 @@
+$spaceW: 320px !default;
+$maxW: 540;
+@media (max-width: 320px) {
+  html {
+    font-size: 32px !important
+  }
+}
+
+@for $i from 1 through $maxW - 320 {
+  @media (width: $i + $spaceW) {
+    html {
+      font-size: ($i+$spaceW)/10 !important;
+    }
+  }
+}
+
+@media (min-width: $maxW + 0px) {
+  html {
+    font-size: $maxW / 10 + 0px !important;
+  }
+}

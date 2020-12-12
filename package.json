@@ -1,0 +1,40 @@
+{
+  "_from": "mobile.flexible.css",
+  "_id": "mobile.flexible.css@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-q+OGGjIR0yTp7szSbz/aJob/VUo4wvGsTVnzg8X2osVbMPdUjc7DevPs80fr6FPquJ9jzCJWn7Dlpdy4w6B4yQ==",
+  "_location": "/mobile.flexible.css",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "mobile.flexible.css",
+    "name": "mobile.flexible.css",
+    "escapedName": "mobile.flexible.css",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/mobile.flexible.css/-/mobile.flexible.css-1.0.0.tgz",
+  "_shasum": "43307fb98c18c5ab24457ee6cd621f5854e1a28c",
+  "_spec": "mobile.flexible.css",
+  "_where": "F:\\WWW\\NodeJs\\demo",
+  "author": {
+    "name": "Oli.Liu"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "flexible-css 移动页面rem实现自适应",
+  "keywords": [],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "mobile.flexible.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
