@@ -6,6 +6,7 @@
 * Flexible.css的原理同Flexible.js相同，都是修改了fontsize，不同的是我用SCSS把自适合尺寸的CSS提前渲染好了。
 * 默认html页面最大宽设为540px，你可以使用对等设计稿750px的flexible.750.css
 * Flexible.css的雏形是用em，当初是以父级自适应子元素盒子，原因是2015年前大部分手机对rem兼容性差，但对媒体查询兼容性很好。
+* CDN: https://cdn.jsdelivr.net/gh/liseipi/mobile.flexible.css@1.0/css/flexible.css
 
 ### 配合HTML最大宽度使用
 
