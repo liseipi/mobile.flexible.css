@@ -24,12 +24,24 @@
   "_spec": "mobile.flexible.css",
   "_where": "F:\\WWW\\NodeJs\\demo",
   "author": {
-    "name": "Oli.Liu"
+    "name": "Oli Liu",
+    "email": "reg_user@qq.com"
   },
   "bundleDependencies": false,
   "deprecated": false,
   "description": "flexible-css 移动页面rem实现自适应",
-  "keywords": [],
+  "keywords": [
+    "flexible",
+    "flexible.css",
+    "mobile.flexible.css",
+    "fontsize",
+    "rem"
+  ],
+  "homepage": "https://github.com/liseipi/mobile.flexible.css",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liseipi/mobile.flexible.css"
+  },
   "license": "ISC",
   "main": "index.js",
   "name": "mobile.flexible.css",
