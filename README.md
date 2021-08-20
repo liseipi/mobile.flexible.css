@@ -14,7 +14,7 @@
 @improt 'flexible.css/css/flexible.css'
 
 html {
-  max-width: 540px;
+  max-width: 540px; // or 750px
   margin: 0 auto;
   background-color: #f8f8f8;
   min-height: 100%;
@@ -30,7 +30,7 @@ html {
 
 ```
 @function REM($px) {
-  @return $px / 750 * 1rem;
+  @return $px / 75 * 1rem;
 }
 ```
 
@@ -38,6 +38,6 @@ html {
 
 ```
 @function REM($px) {
-  @return $px / 540 * 0.72 * 1rem;
+  @return $px / 54 * 0.72 * 1rem;
 }
 ```
